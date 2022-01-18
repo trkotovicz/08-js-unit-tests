@@ -31,4 +31,7 @@ const average = (numbers) => {
 
 console.log(average([1, 2, 3, 4, 5]));
 
+/* Referência: Math.round() usado para arredondar um número decimal para inteiro
+https://www.w3schools.com/jsref/jsref_round.asp */
+
 module.exports = average;
